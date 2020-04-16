@@ -1,7 +1,9 @@
 ## Adam's TapStrap AutoHotKey 
 I included the original Readme from the python SDK https://github.com/TapWithUs/tap-python-sdk
-I currently believe that yoyu need to follow there steps of doing 
+I currently believe that you need to follow there steps of doing 
 ```console
+git clone https://github.com/adamjsturge/Adams-TapStrap-AutoHotKey.git
+cd Adams-TapStrap-AutoHotKey
 pip install .
 ```
 I'm pretty new to python. If anyone has any recommendations on how I can make it better just let me know. You do need Python 3.
